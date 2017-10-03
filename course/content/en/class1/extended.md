@@ -13,7 +13,7 @@ Here you can access Graham and Susan's original interviews in full.
 
 **Graham MacIndoe** is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.
 
-[www.grahammacindoe.com](www.grahammacindoe.com)
+[www.grahammacindoe.com](http://www.grahammacindoe.com)
 
 > [Twitter - @grahammacindoe](https://twitter.com/grahammacindoe), [Instagram - @grahammacindoe](https://www.instagram.com/grahammacindoe/), [Facebook - grahammacindoe](https://www.facebook.com/grahammacindoe)
 
