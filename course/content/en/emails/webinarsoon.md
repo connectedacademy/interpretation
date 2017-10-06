@@ -2,6 +2,17 @@
 published: true
 content_type: title
 optional: false
-title: Webinar Live Soon
+title: Connected Academy - Webinar Live Soon
 ---
+Hi {{user}}!
+
+The Connected Academy **Interpretation** webinar is starting soon. This live broadcast with Q+A gets you direct access to the people at the center of this weeks content.
+
+https://interpretation.connectedacademy.io/#/course/interpretation
+
+Bring your questions!\
+Jonathan at Connected Academy
+
+----
+_This email was sent by Connected Academy at {{date}}_
 
