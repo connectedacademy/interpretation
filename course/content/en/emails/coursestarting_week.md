@@ -10,7 +10,8 @@ The Connected Academy **Interpretation** course is starting in a few days, have 
 
 https://interpretation.connectedacademy.io
 
-See you soon!\
+See you soon!
+
 Jonathan at Connected Academy
 
 ----

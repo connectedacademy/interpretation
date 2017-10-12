@@ -10,7 +10,8 @@ There is a new piece of feedback in a discussion you are having in Connected Aca
 
 Visit http://interpretation.connectedacademy.io/#/feedback/{{id}} to continue the conversation.
 
-Yours,\
+Yours,
+
 Jonathan at Connected Academy
 ----
 _This email was generated automatially at {{date}}_

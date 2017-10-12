@@ -14,7 +14,8 @@ To make sure everyone gets a chance for feedback, you will have to provide feedb
 
 https://interpretation.connectedacademy.io
 
-Happy discussions!\
+Happy discussions!
+
 Jonathan at Connected Academy
 
 ----

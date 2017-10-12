@@ -14,7 +14,8 @@ As you listen and read the transcript, make your notes as you go, and keep an ey
 
 https://interpretation.connectedacademy.io
 
-Happy listening!\
+Happy listening!
+
 Jonathan at Connected Academy
 
 ----

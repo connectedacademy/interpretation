@@ -14,7 +14,8 @@ https://interpretation.connectedacademy.io
 
 Stay tuned for more information.
 
-I'm looking forward to your contributions!\
+I'm looking forward to your contributions!
+
 Jonathan at Connected Academy
 
 ----

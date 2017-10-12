@@ -10,7 +10,8 @@ Thanks for taking part in the course. We hope that you enjoyed and valued this l
 
 We will let you know about the next course, so stay tuned!
 
-See you soon!\
+See you soon!
+
 Jonathan at Connected Academy
 
 ----
