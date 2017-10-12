@@ -8,7 +8,7 @@ Hi {{user}}!
 
 The Connected Academy **Interpretation** webinar is starting soon. This live broadcast with Q+A gets you direct access to the people at the center of this weeks content.
 
-https://interpretation.connectedacademy.io/#/course/interpretation
+https://interpretation.connectedacademy.io
 
 Bring your questions!\
 Jonathan at Connected Academy

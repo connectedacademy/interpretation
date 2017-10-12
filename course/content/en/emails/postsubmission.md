@@ -8,7 +8,7 @@ Hi {{user}}!
 
 To get the most out of Connected Academy, you should submit work for peer feedback whenever possible. The next submission is due, so head over to Connected Academy to submit your work.
 
-https://interpretation.connectedacademy.io/#/course/interpretation
+https://interpretation.connectedacademy.io
 
 Happy creating!\
 Jonathan at Connected Academy

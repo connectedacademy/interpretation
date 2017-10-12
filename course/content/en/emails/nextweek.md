@@ -9,6 +9,8 @@ Hi {{user}}!
 
 This week's work on Connected Academy is now complete. Have a rest and come back refreshed, looking at the preparatory material for next week.
 
+https://interpretation.connectedacademy.io
+
 See you soon!\
 Jonathan at Connected Academy
 

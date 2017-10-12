@@ -12,6 +12,8 @@ We encourage you to visit the area where you can submit your work, and provide f
 
 To make sure everyone gets a chance for feedback, you will have to provide feedback on other work to unlock the feedback on yours.
 
+https://interpretation.connectedacademy.io
+
 Happy discussions!\
 Jonathan at Connected Academy
 

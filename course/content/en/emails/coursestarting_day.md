@@ -8,6 +8,8 @@ Hi {{user}}!
 
 The Connected Academy course on **Interpretation** is starting tomorrow, so make sure to visit and get involved!
 
+https://interpretation.connectedacademy.io
+
 See you soon!\
 Jonathan at Connected Academy
 
