@@ -10,7 +10,8 @@ Now that that you have taken part in the live class you can take your time to ex
 
 https://interpretation.connectedacademy.io
 
-Good reading,\
+Good reading,
+
 Jonathan at Connected Academy
 
 ----

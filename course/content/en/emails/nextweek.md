@@ -11,7 +11,8 @@ This week's work on Connected Academy is now complete. Have a rest and come back
 
 https://interpretation.connectedacademy.io
 
-See you soon!\
+See you soon!
+
 Jonathan at Connected Academy
 
 ----

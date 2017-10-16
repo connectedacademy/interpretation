@@ -10,7 +10,8 @@ The Connected Academy **Interpretation** webinar is starting soon. This live bro
 
 https://interpretation.connectedacademy.io
 
-Bring your questions!\
+Bring your questions!
+
 Jonathan at Connected Academy
 
 ----
