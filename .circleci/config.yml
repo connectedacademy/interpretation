@@ -6,7 +6,7 @@ general:
 
 notify:
   webhooks:
-    - url: https://api.connectedacademy.io/clearcache/${CIRCLE_PR_REPONAME}
+    - url: https://api.connectedacademy.io/clearcache/
 
 jobs:
   build:
