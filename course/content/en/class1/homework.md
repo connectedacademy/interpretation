@@ -6,6 +6,7 @@ expectsubmission: true
 title: Preparation
 homework: true
 description: Pre-reading and a practical challenge to complete in advance of the class.
+background: https://interpretation.connectedacademy.io/course/content/media/medium/Jeffrey_Stockbridge_KB-040-1024x1280.jpg
 ---
 ## This week's task
 
