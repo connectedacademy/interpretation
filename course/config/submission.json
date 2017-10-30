@@ -1,6 +1,6 @@
 {
   "submission": {
-        "deonominator":["(<img.*?data-4c.*?>)"],
+        "denominator":["(<img.*?data-4c.*?>)"],
         "capture": [
           {
             "pattern": "(<script.*src.*\/dist\/4c\\.js.*?<\/script>)"
