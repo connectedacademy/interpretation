@@ -3,10 +3,10 @@
         "deonominator":["(<img.*?data-4c.*?>)"],
         "capture": [
           {
-            "pattern": "(<script.*src.*\/dist\/4c\\.js.*?<\/script>)",
+            "pattern": "(<script.*src.*\/dist\/4c\\.js.*?<\/script>)"
           },
           {
-            "pattern":"(<script.*?data-4c-meta[\\S\\s]*?<\/script>)",
+            "pattern":"(<script.*?data-4c-meta[\\S\\s]*?<\/script>)"
           },
           {
             "pattern": "(<img.*?data-4c.*?>)"
