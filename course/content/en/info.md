@@ -22,6 +22,6 @@ Each class contains a montage of interviews with **photographers**, a **subjects
 - Why should they believe you?
 - And finally, what do you want them to do as a result?
  
-Traditional storytelling themes such as Evidence, Interpretation, Fiction, Fact, Narrative and Impact also emerge are discussed throughoute.
+Traditional storytelling themes such as Evidence, Interpretation, Fiction, Fact, Narrative and Impact also emerge are discussed throughout.
  
 > Submission of photographic work must be in the Four Corners format. Four Corners is an authoring and context tool first envisaged by ex-NY Times Photo Editor, Fred Ritchin. It enables the photographer to furnish an image with extra contextual information, related frames, links, copyright information and their code of ethics.
