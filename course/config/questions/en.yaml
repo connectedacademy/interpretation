@@ -1,11 +1,11 @@
 registration:
   -
     id: 1
-    text: Summarise your thoughts on about online courses? Do you prefer them over traditional lectures?
+    text: Summarise your thoughts on online courses. Do you prefer them over traditional lectures?
     response_type: text
   -
     id: 2
-    text: Do you prefer a learning setting where you get information delivered by an expert, or do you prefer it to be more discussion-based?
+    text: Do you prefer expert-led, or discussion-based learning environments?
     response_type: text
   - 
     id: 3
@@ -28,7 +28,7 @@ registration:
     response_max: Always
   -
     id: 6
-    text: Which service, if any, do you use to share pictures and who do you think owns the rights to those images once posted?
+    text: Which services, if any, do you share pictures on and are you aware of who owns the rights images once posted?
     response_type: text
   - 
     id: 7
@@ -55,10 +55,9 @@ during:
     response_max: Everyday
   -
     id: 11
-    text: Prior to this course, how often have you engaged in live online discussion around an event (radio show, tv program, sports event or webinar)?
-    response_type: scale
-    response_min: Never
-    response_max: Everyday
+    text: Prior to this course, have you engaged in live online discussion around an event?
+    response_type: text
+    response_placeholder: (radio show, tv program, sports event or webinar)
   - 
     id: 12
     text: How many online courses have you taken?
