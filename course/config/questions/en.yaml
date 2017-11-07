@@ -1,12 +1,16 @@
 registration:
   -
     id: 1
-    text: Summarise your thoughts on online courses. Do you prefer them over traditional lectures?
-    response_type: text
+    text: Do you prefer traditional lectures or online courses?
+    response_type: scale
+    response_min: Traditional
+    response_max: Online
   -
     id: 2
-    text: Do you prefer expert-led, or discussion-based learning environments?
-    response_type: text
+    text: What kind of learning environment do you prefer?
+    response_type: scale
+    response_min: Expert-led
+    response_max: Dsicussion-based
   - 
     id: 3
     text: How often do you usually make notes when studying?
@@ -26,6 +30,7 @@ registration:
     response_type: scale
     response_min: Never
     response_max: Always
+during:
   -
     id: 6
     text: Which services, if any, do you share pictures on and are you aware of who owns the rights images once posted?
@@ -46,7 +51,6 @@ registration:
     response_type: scale
     response_min: Never
     response_max: Always
-during:
   -
     id: 10
     text: How often have you contributed to a shared online document, such as a Google Doc?
