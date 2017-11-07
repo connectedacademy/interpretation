@@ -36,9 +36,8 @@ registration:
     response_type: multi
     response_options:
       - Watch
-      - Watch & Comment
-      - Watch & Engage in Discussion
-      - I don't
+      - Discuss
+      - Neither
   -
     id: 7
     text:  Would you be interested in a certificate of participation?
