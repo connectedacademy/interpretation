@@ -45,8 +45,8 @@ registration:
     response_type: multi
     response_options:
       - Yes
-      - Yes (with a grade)
-      - No thanks
+      - Yes (with grade)
+      - Nope
 during:
   -
     id: 8
