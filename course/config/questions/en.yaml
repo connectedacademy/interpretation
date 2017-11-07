@@ -14,7 +14,11 @@ registration:
   -
     id: 4
     text:  Do you take notes using pen and paper or electronically?
-    response_type: boolean
+    response_type: multi
+    reponse_options:
+      - First
+      - Second
+    
   -
     id: 5
     text: Do you normally share notes with others? 0 - Never, 5 - Always
