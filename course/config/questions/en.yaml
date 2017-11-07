@@ -10,7 +10,7 @@ registration:
     text: What kind of learning environment do you prefer?
     response_type: scale
     response_min: Expert-led
-    response_max: Dsicussion-based
+    response_max: Discussion based
   - 
     id: 3
     text: How often do you usually make notes when studying?
