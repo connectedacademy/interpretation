@@ -1,9 +1,9 @@
 registration:
   -
     id: 1
-    text: Do you prefer traditional lectures or online courses?
+    text: What kind of lecture style do you prefer?
     response_type: scale
-    response_min: Traditional
+    response_min: In-person Lectures
     response_max: Online
   -
     id: 2
@@ -19,14 +19,14 @@ registration:
     response_max: Always
   -
     id: 4
-    text:  Do you take notes using pen and paper or electronically?
+    text:  How do you normally take notes?
     response_type: multi
     response_options:
       - Pen and paper
       - Electronically
   -
     id: 5
-    text: Do you normally share notes with others?
+    text: How often do you share notes with others?
     response_type: scale
     response_min: Never
     response_max: Always
