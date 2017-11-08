@@ -1,6 +1,6 @@
 hashtag: "#cainterpretation"
 starts: "2017-08-14T22:47:31-07:00"
-ends: "2017-09-28T22:47:31-07:00"
+ends: "2017-12-30T22:47:31-07:00"
 accounts: 
   - tombartindale
 langs:
@@ -30,7 +30,7 @@ classes:
         slug: liveclass
         schedule:
           -
-            release_at: "2017-08-16T22:57:37-07:00"
+            release_at: "2017-12-01T22:57:37-07:00"
             leadhub: true
             hub_id: "ncl"
       -
