@@ -51,3 +51,6 @@ classes:
       -
         url: whatnext.md
         slug: whatnext
+      -
+        url: certificate.md
+        slug: certificate
