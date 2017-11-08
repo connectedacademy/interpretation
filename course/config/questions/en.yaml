@@ -3,8 +3,8 @@ registration:
     id: 1
     text: What kind of lecture style do you prefer?
     response_type: scale
-    response_min: In-person Lectures
-    response_max: Online
+    response_min: Traditional Lectures
+    response_max: Online Learning
   -
     id: 2
     text: What kind of learning environment do you prefer?
