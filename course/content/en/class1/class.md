@@ -8,9 +8,11 @@ description: >-
   Rights Reserved.
 duration: '1875'
 expectsubmission: false
-images: transcripts/liveclass-images.json
-soundcloudId: 338408066
+audio:
+  - CA_TL_1_v4_32.mp3
+  - CA_TL_1_v4_32.ogg
 transcript: transcripts/liveclass-transcript.json
+images: transcripts/liveclass-images.json
 prompts: transcripts/liveclass-prompts.json
 media: transcripts/liveclass-media.json
 ---
