@@ -40,10 +40,10 @@ Here you can access Graham and Susan's original interviews in full.
 
 > Darcy Padilla is a documentary photographer, photojournalist, and lecturer specializing in contemporary issues and long-term projects.
 Her awards include a Guggenheim Fellowship, three World Press Photo Awards, Alexia Foundation Grant, Open Society Institute Individual Fellowship, Getty Images Grant, Alicia Patterson Fellowship, International Photo-Reporter Grant, Canon Female Photojournalist Award, and the W. Eugene Smith Grant for Humanitarian Photography.
-![]({{site.baseurl}}/)
+![](https://interpretation.connectedacademy.io/)
 Family Love Based on the documentary The Julie Project that follows a family for 21 years — an intimate story of poverty, Aids, and social issues.
 
-![DarcyPadilla_FamilyLove-Book.jpg]({{site.baseurl}}/course/content/media/DarcyPadilla_FamilyLove-Book.jpg)
+![DarcyPadilla_FamilyLove-Book.jpg](https://interpretation.connectedacademy.io/course/content/media/DarcyPadilla_FamilyLove-Book.jpg)
 
 **Brenda Ann Kenneally** - [http://therawfile.org/](http://therawfile.org/)
 
